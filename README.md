@@ -1,4 +1,5 @@
-# EssmawPortfolio
+# EssmawPortfolio 🌸
+
 
 ## About Me
 - 🎓 Master's student in Bioinformatics
