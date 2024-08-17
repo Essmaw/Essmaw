@@ -3,9 +3,9 @@
 
 ## About Me
 - 🎓 Master's student in Bioinformatics
-- 💻 Passionate about machine learning, data analysis, databases, structural biology, genomics
+- 💻 Passionate about machine learning, LLMs, AI in Science, data analysis, drug design, structural biology, as well as developing user interfaces.
 - 🎨 Love paintings and various artistic disciplines
-- 🗣️ Fluent in English, French, Arabic, with basic knowledge in Korean
+- 🗣️ Fluent in French, English, and Arabic.
 
 
 ## Technology Stack
